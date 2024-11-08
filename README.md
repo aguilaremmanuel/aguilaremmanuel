@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Emmanuel John F. Aguilar
 - 👀 I’m interested in the field of Software Engineering
-- 💞️ I’m looking to collaborate with people that can help me to grow and learn new things
+- 💞️ My projects here reflect my journey, and I hope to build even more along the way.
 - 📫 How to reach me? My personal email is aguilaremman3@gmail.com
 
 <!---
