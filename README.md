@@ -15,6 +15,6 @@ You can click the Preview link to take a look at your changes.
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-    <h1 style='color: blue;'>HELLO WORLD</h1>
+    <h1 style="color: blue;">HELLO WORLD</h1>
 </body>
 </html>
